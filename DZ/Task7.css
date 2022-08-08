@@ -1,0 +1,10 @@
+.bookList {
+  cursor: pointer;
+  width: 800px;
+  margin: auto;
+  background-color: bisque;
+}
+
+.selected {
+  color: red;
+}

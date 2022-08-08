@@ -1,0 +1,33 @@
+.toggle {
+  padding: 7px;
+  background-color: rgb(181, 220, 233);
+  border: 1px solid black;
+  color: black;
+  display: none;
+  overflow: hidden;
+}
+/* .toggle .content {
+  text-align: left;
+  border: 1px solid #ccc;
+  background: #eee;
+}
+.toggle .toggler {
+  font-size: 11px;
+} */
+.add {
+  background-color: rgb(81, 140, 187);
+  color: white;
+  cursor: pointer;
+  padding: 7px;
+  width: 100%;
+  text-align: left;
+  transition: 0.4s;
+}
+.toggleContent {
+  padding: 7px;
+  background-color: rgb(181, 220, 233);
+  border: 1px solid black;
+  color: black;
+  display: block;
+  overflow: hidden;
+}
